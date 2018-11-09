@@ -7,6 +7,8 @@ namespace TestDotNetCoreWebApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello CIBS World!");
+
+            new CriticalTests().MyIntegrationTest();
         }
     }
 }
