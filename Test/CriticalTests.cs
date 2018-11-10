@@ -1,5 +1,7 @@
 ﻿using System;
 
+namespace TestDotNetCoreWebApp
+
 public class CriticalTests
 {
     [Fact]
